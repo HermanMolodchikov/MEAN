@@ -1,0 +1,1 @@
+let reg = new(/\d/gu);
